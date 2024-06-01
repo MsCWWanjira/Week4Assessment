@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "Do my skincare",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Finish my assignments",
+      "completed": true
+    }
+]

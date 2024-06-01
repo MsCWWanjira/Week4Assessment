@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  body {
+    background-color: #0000ff6c;
+    color: rgba(0, 0, 0, 0.863);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+
+  .container {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 30px;
+  }
+  
+
+  .card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+  }
+  
+
+  .card label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+
+
+  .card input[type="text"] {
+    width: 90%;
+    padding: 20px;
+    border: 1px solid #ccccccd2;
+  }
+  
+
+  
+  .card button {
+    background-color: #333333fd;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
